@@ -1,8 +1,17 @@
-# Backend
+<div align="center">
 
-A learning repository for backend development — server-side logic, HTTP servers, and assignments built while working through **Node.js**, **Express**, and the wider backend ecosystem.
+# 🧩 Backend Development — Node.js & Express
 
-This repo is a running record of practice: every core concept gets its own small, working example rather than a single large application. Expect it to grow steadily as new topics are covered.
+**A hands-on learning repo for backend development: Node.js core modules, raw HTTP servers and Express — one small, working example per concept.**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+</div>
+
+---
 
 ## What's in here
 
@@ -78,6 +87,13 @@ Backend/
 
 This is a practice repository, not a production application. Code here favours clarity and experimentation over polish — the goal is understanding how backend systems work from the ground up.
 
-## Author
+---
 
-**Awaneesh Gupta** — [@Awaneesh03](https://github.com/Awaneesh03)
+## 👤 Author
+
+**Awaneesh Gupta** — B.Tech CSE (AI) @ Vedam School of Technology
+
+[![GitHub](https://img.shields.io/badge/GitHub-Awaneesh03-181717?style=flat-square&logo=github)](https://github.com/Awaneesh03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-awaneesh--gupta-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/awaneesh-gupta)
+
+<p align="center"><sub>If you found this project useful, consider giving it a ⭐</sub></p>
